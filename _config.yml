@@ -16,3 +16,5 @@ paginate: 4
 author: Ash45
 
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-cayman
